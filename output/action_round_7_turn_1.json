@@ -1,0 +1,32 @@
+
+{
+	"purchase_card" : 
+	{
+		"color" : "green",
+		"costs" : 
+		[
+			
+			{
+				"color" : "white",
+				"count" : 1
+			},
+			
+			{
+				"color" : "blue",
+				"count" : 1
+			},
+			
+			{
+				"color" : "red",
+				"count" : 1
+			},
+			
+			{
+				"color" : "black",
+				"count" : 2
+			}
+		],
+		"level" : 1,
+		"score" : 0
+	}
+}

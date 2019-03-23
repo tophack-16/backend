@@ -1,6 +1,6 @@
 
 {
-	"playerName" : "player_example_3",
+	"playerName" : "hhh_3",
 	"players" : 
 	[
 		
@@ -9,13 +9,328 @@
 			[
 				
 				{
-					"color" : "blue",
+					"color" : "green",
 					"count" : 1
+				},
+				
+				{
+					"color" : "blue",
+					"count" : 2
 				},
 				
 				{
 					"color" : "white",
 					"count" : 1
+				},
+				
+				{
+					"color" : "black",
+					"count" : 1
+				}
+			],
+			"name" : "hhh_1",
+			"purchasedCards" : 
+			[
+				
+				{
+					"color" : "red",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 2
+						},
+						
+						{
+							"color" : "white",
+							"count" : 2
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "white",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 4
+						},
+						
+						{
+							"color" : "green",
+							"count" : 1
+						},
+						
+						{
+							"color" : "black",
+							"count" : 2
+						}
+					],
+					"level" : 2,
+					"score" : 2
+				},
+				
+				{
+					"color" : "green",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 2
+						},
+						
+						{
+							"color" : "blue",
+							"count" : 2
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "green",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 2
+						},
+						
+						{
+							"color" : "blue",
+							"count" : 1
+						},
+						
+						{
+							"color" : "black",
+							"count" : 2
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "white",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 1
+						},
+						
+						{
+							"color" : "green",
+							"count" : 2
+						},
+						
+						{
+							"color" : "blue",
+							"count" : 1
+						},
+						
+						{
+							"color" : "black",
+							"count" : 1
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "red",
+					"costs" : 
+					[
+						
+						{
+							"color" : "white",
+							"count" : 4
+						}
+					],
+					"level" : 1,
+					"score" : 1
+				},
+				
+				{
+					"color" : "black",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 3
+						},
+						
+						{
+							"color" : "green",
+							"count" : 1
+						},
+						
+						{
+							"color" : "black",
+							"count" : 1
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "black",
+					"costs" : 
+					[
+						
+						{
+							"color" : "green",
+							"count" : 3
+						},
+						
+						{
+							"color" : "white",
+							"count" : 3
+						},
+						
+						{
+							"color" : "black",
+							"count" : 2
+						}
+					],
+					"level" : 2,
+					"score" : 1
+				},
+				
+				{
+					"color" : "blue",
+					"costs" : 
+					[
+						
+						{
+							"color" : "green",
+							"count" : 2
+						},
+						
+						{
+							"color" : "black",
+							"count" : 2
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "red",
+					"costs" : 
+					[
+						
+						{
+							"color" : "green",
+							"count" : 1
+						},
+						
+						{
+							"color" : "white",
+							"count" : 2
+						},
+						
+						{
+							"color" : "black",
+							"count" : 2
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "black",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 1
+						},
+						
+						{
+							"color" : "green",
+							"count" : 1
+						},
+						
+						{
+							"color" : "blue",
+							"count" : 1
+						},
+						
+						{
+							"color" : "white",
+							"count" : 1
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "red",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 2
+						},
+						
+						{
+							"color" : "white",
+							"count" : 2
+						},
+						
+						{
+							"color" : "black",
+							"count" : 3
+						}
+					],
+					"level" : 2,
+					"score" : 1
+				},
+				
+				{
+					"color" : "blue",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 4
+						}
+					],
+					"level" : 1,
+					"score" : 1
+				}
+			],
+			"score" : 6
+		},
+		
+		{
+			"gems" : 
+			[
+				
+				{
+					"color" : "red",
+					"count" : 1
+				},
+				
+				{
+					"color" : "green",
+					"count" : 1
+				},
+				
+				{
+					"color" : "blue",
+					"count" : 2
 				},
 				
 				{
@@ -23,22 +338,135 @@
 					"count" : 2
 				}
 			],
-			"name" : "player_example_1",
-			"reservedCards" : 
+			"name" : "hhh_2",
+			"purchasedCards" : 
 			[
 				
 				{
-					"color" : "red",
+					"color" : "green",
 					"costs" : 
 					[
 						
 						{
+							"color" : "blue",
+							"count" : 1
+						},
+						
+						{
 							"color" : "white",
-							"count" : 4
+							"count" : 2
 						}
 					],
-					"level" : 1,
-					"score" : 1
+					"level" : 1
+				},
+				
+				{
+					"color" : "blue",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 2
+						},
+						
+						{
+							"color" : "green",
+							"count" : 1
+						},
+						
+						{
+							"color" : "white",
+							"count" : 1
+						},
+						
+						{
+							"color" : "black",
+							"count" : 1
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "white",
+					"costs" : 
+					[
+						
+						{
+							"color" : "blue",
+							"count" : 2
+						},
+						
+						{
+							"color" : "black",
+							"count" : 2
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "black",
+					"costs" : 
+					[
+						
+						{
+							"color" : "green",
+							"count" : 3
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "blue",
+					"costs" : 
+					[
+						
+						{
+							"color" : "black",
+							"count" : 3
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "white",
+					"costs" : 
+					[
+						
+						{
+							"color" : "green",
+							"count" : 2
+						},
+						
+						{
+							"color" : "blue",
+							"count" : 2
+						},
+						
+						{
+							"color" : "black",
+							"count" : 1
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "white",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 5
+						}
+					],
+					"level" : 2,
+					"score" : 2
 				},
 				
 				{
@@ -47,12 +475,45 @@
 					[
 						
 						{
-							"color" : "black",
+							"color" : "blue",
+							"count" : 2
+						},
+						
+						{
+							"color" : "white",
 							"count" : 4
+						},
+						
+						{
+							"color" : "black",
+							"count" : 1
 						}
 					],
-					"level" : 1,
-					"score" : 1
+					"level" : 2,
+					"score" : 2
+				},
+				
+				{
+					"color" : "white",
+					"costs" : 
+					[
+						
+						{
+							"color" : "blue",
+							"count" : 1
+						},
+						
+						{
+							"color" : "white",
+							"count" : 3
+						},
+						
+						{
+							"color" : "black",
+							"count" : 1
+						}
+					],
+					"level" : 1
 				},
 				
 				{
@@ -67,7 +528,17 @@
 						
 						{
 							"color" : "blue",
+							"count" : 1
+						},
+						
+						{
+							"color" : "white",
 							"count" : 2
+						},
+						
+						{
+							"color" : "black",
+							"count" : 1
 						}
 					],
 					"level" : 1
@@ -80,10 +551,62 @@
 						
 						{
 							"color" : "red",
-							"count" : 3
+							"count" : 1
+						},
+						
+						{
+							"color" : "blue",
+							"count" : 1
+						},
+						
+						{
+							"color" : "white",
+							"count" : 1
+						},
+						
+						{
+							"color" : "black",
+							"count" : 1
 						}
 					],
 					"level" : 1
+				},
+				
+				{
+					"color" : "green",
+					"costs" : 
+					[
+						
+						{
+							"color" : "green",
+							"count" : 1
+						},
+						
+						{
+							"color" : "blue",
+							"count" : 3
+						},
+						
+						{
+							"color" : "white",
+							"count" : 1
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "white",
+					"costs" : 
+					[
+						
+						{
+							"color" : "green",
+							"count" : 4
+						}
+					],
+					"level" : 1,
+					"score" : 1
 				},
 				
 				{
@@ -92,12 +615,35 @@
 					[
 						
 						{
-							"color" : "red",
-							"count" : 3
+							"color" : "green",
+							"count" : 2
 						},
 						
 						{
+							"color" : "white",
+							"count" : 2
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "red",
+					"costs" : 
+					[
+						
+						{
 							"color" : "green",
+							"count" : 1
+						},
+						
+						{
+							"color" : "blue",
+							"count" : 1
+						},
+						
+						{
+							"color" : "white",
 							"count" : 1
 						},
 						
@@ -115,14 +661,24 @@
 					[
 						
 						{
-							"color" : "black",
+							"color" : "red",
+							"count" : 1
+						},
+						
+						{
+							"color" : "green",
 							"count" : 3
+						},
+						
+						{
+							"color" : "blue",
+							"count" : 1
 						}
 					],
 					"level" : 1
 				}
 			],
-			"score" : 0
+			"score" : 5
 		},
 		
 		{
@@ -135,18 +691,36 @@
 				},
 				
 				{
-					"color" : "white",
+					"color" : "green",
 					"count" : 3
 				},
 				
 				{
-					"color" : "black",
+					"color" : "blue",
 					"count" : 1
+				},
+				
+				{
+					"color" : "white",
+					"count" : 2
 				}
 			],
-			"name" : "player_example_2",
-			"reservedCards" : 
+			"name" : "hhh_3",
+			"purchasedCards" : 
 			[
+				
+				{
+					"color" : "green",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 3
+						}
+					],
+					"level" : 1
+				},
 				
 				{
 					"color" : "green",
@@ -177,14 +751,9 @@
 				},
 				
 				{
-					"color" : "blue",
+					"color" : "red",
 					"costs" : 
 					[
-						
-						{
-							"color" : "red",
-							"count" : 2
-						},
 						
 						{
 							"color" : "green",
@@ -192,36 +761,31 @@
 						},
 						
 						{
-							"color" : "white",
-							"count" : 1
-						},
-						
-						{
-							"color" : "black",
-							"count" : 1
+							"color" : "blue",
+							"count" : 2
 						}
 					],
 					"level" : 1
 				},
 				
 				{
-					"color" : "white",
+					"color" : "black",
 					"costs" : 
 					[
 						
 						{
-							"color" : "blue",
+							"color" : "red",
 							"count" : 1
+						},
+						
+						{
+							"color" : "blue",
+							"count" : 2
 						},
 						
 						{
 							"color" : "white",
-							"count" : 3
-						},
-						
-						{
-							"color" : "black",
-							"count" : 1
+							"count" : 2
 						}
 					],
 					"level" : 1
@@ -233,7 +797,66 @@
 					[
 						
 						{
+							"color" : "red",
+							"count" : 1
+						},
+						
+						{
+							"color" : "white",
+							"count" : 1
+						},
+						
+						{
+							"color" : "black",
+							"count" : 3
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "white",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 2
+						},
+						
+						{
+							"color" : "black",
+							"count" : 1
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "black",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 1
+						},
+						
+						{
 							"color" : "green",
+							"count" : 2
+						}
+					],
+					"level" : 1
+				},
+				
+				{
+					"color" : "blue",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
 							"count" : 1
 						},
 						
@@ -244,7 +867,36 @@
 						
 						{
 							"color" : "black",
+							"count" : 4
+						}
+					],
+					"level" : 2,
+					"score" : 2
+				},
+				
+				{
+					"color" : "black",
+					"costs" : 
+					[
+						
+						{
+							"color" : "red",
+							"count" : 1
+						},
+						
+						{
+							"color" : "green",
+							"count" : 1
+						},
+						
+						{
+							"color" : "blue",
 							"count" : 2
+						},
+						
+						{
+							"color" : "white",
+							"count" : 1
 						}
 					],
 					"level" : 1
@@ -256,18 +908,32 @@
 					[
 						
 						{
+							"color" : "black",
+							"count" : 4
+						}
+					],
+					"level" : 1,
+					"score" : 1
+				},
+				
+				{
+					"color" : "blue",
+					"costs" : 
+					[
+						
+						{
 							"color" : "red",
 							"count" : 2
 						},
 						
 						{
-							"color" : "blue",
-							"count" : 1
+							"color" : "green",
+							"count" : 2
 						},
 						
 						{
-							"color" : "black",
-							"count" : 2
+							"color" : "white",
+							"count" : 1
 						}
 					],
 					"level" : 1
@@ -280,87 +946,21 @@
 						
 						{
 							"color" : "green",
-							"count" : 2
-						},
-						
-						{
-							"color" : "black",
-							"count" : 2
-						}
-					],
-					"level" : 1
-				},
-				
-				{
-					"color" : "red",
-					"costs" : 
-					[
-						
-						{
-							"color" : "green",
-							"count" : 1
-						},
-						
-						{
-							"color" : "blue",
-							"count" : 1
-						},
-						
-						{
-							"color" : "white",
-							"count" : 2
-						},
-						
-						{
-							"color" : "black",
-							"count" : 1
-						}
-					],
-					"level" : 1
-				}
-			],
-			"score" : 0
-		},
-		
-		{
-			"gems" : 
-			[
-				
-				{
-					"color" : "red",
-					"count" : 1
-				},
-				
-				{
-					"color" : "black",
-					"count" : 1
-				}
-			],
-			"name" : "player_example_3",
-			"reservedCards" : 
-			[
-				
-				{
-					"color" : "green",
-					"costs" : 
-					[
-						
-						{
-							"color" : "green",
-							"count" : 1
-						},
-						
-						{
-							"color" : "blue",
 							"count" : 3
 						},
 						
 						{
-							"color" : "white",
-							"count" : 1
+							"color" : "blue",
+							"count" : 2
+						},
+						
+						{
+							"color" : "black",
+							"count" : 3
 						}
 					],
-					"level" : 1
+					"level" : 2,
+					"score" : 1
 				},
 				
 				{
@@ -375,7 +975,7 @@
 						
 						{
 							"color" : "green",
-							"count" : 2
+							"count" : 1
 						},
 						
 						{
@@ -386,83 +986,6 @@
 						{
 							"color" : "black",
 							"count" : 1
-						}
-					],
-					"level" : 1
-				},
-				
-				{
-					"color" : "black",
-					"costs" : 
-					[
-						
-						{
-							"color" : "green",
-							"count" : 3
-						}
-					],
-					"level" : 1
-				},
-				
-				{
-					"color" : "red",
-					"costs" : 
-					[
-						
-						{
-							"color" : "red",
-							"count" : 2
-						},
-						
-						{
-							"color" : "white",
-							"count" : 2
-						}
-					],
-					"level" : 1
-				},
-				
-				{
-					"color" : "blue",
-					"costs" : 
-					[
-						
-						{
-							"color" : "red",
-							"count" : 1
-						},
-						
-						{
-							"color" : "green",
-							"count" : 1
-						},
-						
-						{
-							"color" : "white",
-							"count" : 1
-						},
-						
-						{
-							"color" : "black",
-							"count" : 1
-						}
-					],
-					"level" : 1
-				},
-				
-				{
-					"color" : "black",
-					"costs" : 
-					[
-						
-						{
-							"color" : "red",
-							"count" : 1
-						},
-						
-						{
-							"color" : "green",
-							"count" : 2
 						}
 					],
 					"level" : 1
@@ -474,130 +997,64 @@
 					[
 						
 						{
-							"color" : "blue",
+							"color" : "red",
+							"count" : 2
+						},
+						
+						{
+							"color" : "green",
 							"count" : 3
+						},
+						
+						{
+							"color" : "black",
+							"count" : 2
 						}
 					],
-					"level" : 1
+					"level" : 2,
+					"score" : 1
 				}
 			],
-			"score" : 1
+			"score" : 5
 		}
 	],
-	"round" : 0,
+	"round" : 27,
 	"table" : 
 	{
 		"cards" : 
 		[
 			
 			{
-				"color" : "green",
+				"color" : "blue",
 				"costs" : 
 				[
 					
 					{
-						"color" : "green",
-						"count" : 3
-					},
-					
-					{
 						"color" : "blue",
-						"count" : 7
-					}
-				],
-				"level" : 3,
-				"score" : 5
-			},
-			
-			{
-				"color" : "black",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 2
-					},
-					
-					{
-						"color" : "green",
-						"count" : 4
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 1
+						"count" : 6
 					}
 				],
 				"level" : 2,
-				"score" : 2
-			},
-			
-			{
-				"color" : "black",
-				"costs" : 
-				[
-					
-					{
-						"color" : "green",
-						"count" : 2
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 2
-					},
-					
-					{
-						"color" : "white",
-						"count" : 3
-					}
-				],
-				"level" : 2,
-				"score" : 1
-			},
-			
-			{
-				"color" : "black",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 3
-					},
-					
-					{
-						"color" : "green",
-						"count" : 5
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 3
-					},
-					
-					{
-						"color" : "white",
-						"count" : 3
-					}
-				],
-				"level" : 3,
 				"score" : 3
 			},
 			
 			{
-				"color" : "black",
+				"color" : "white",
 				"costs" : 
 				[
 					
 					{
 						"color" : "red",
-						"count" : 6
+						"count" : 5
 					},
 					
 					{
 						"color" : "green",
+						"count" : 3
+					},
+					
+					{
+						"color" : "blue",
 						"count" : 3
 					},
 					
@@ -607,7 +1064,7 @@
 					}
 				],
 				"level" : 3,
-				"score" : 4
+				"score" : 3
 			},
 			
 			{
@@ -630,17 +1087,35 @@
 				[
 					
 					{
-						"color" : "red",
-						"count" : 1
-					},
+						"color" : "green",
+						"count" : 7
+					}
+				],
+				"level" : 3,
+				"score" : 4
+			},
+			
+			{
+				"color" : "black",
+				"costs" : 
+				[
+					
+					{
+						"color" : "blue",
+						"count" : 4
+					}
+				],
+				"level" : 1,
+				"score" : 1
+			},
+			
+			{
+				"color" : "red",
+				"costs" : 
+				[
 					
 					{
 						"color" : "white",
-						"count" : 1
-					},
-					
-					{
-						"color" : "black",
 						"count" : 3
 					}
 				],
@@ -648,13 +1123,36 @@
 			},
 			
 			{
-				"color" : "blue",
+				"color" : "white",
 				"costs" : 
 				[
 					
 					{
-						"color" : "white",
-						"count" : 7
+						"color" : "blue",
+						"count" : 3
+					}
+				],
+				"level" : 1
+			},
+			
+			{
+				"color" : "red",
+				"costs" : 
+				[
+					
+					{
+						"color" : "red",
+						"count" : 3
+					},
+					
+					{
+						"color" : "green",
+						"count" : 6
+					},
+					
+					{
+						"color" : "blue",
+						"count" : 3
 					}
 				],
 				"level" : 3,
@@ -667,12 +1165,59 @@
 				[
 					
 					{
+						"color" : "white",
+						"count" : 1
+					},
+					
+					{
+						"color" : "black",
+						"count" : 2
+					}
+				],
+				"level" : 1
+			},
+			
+			{
+				"color" : "green",
+				"costs" : 
+				[
+					
+					{
+						"color" : "red",
+						"count" : 3
+					},
+					
+					{
 						"color" : "blue",
 						"count" : 3
 					},
 					
 					{
 						"color" : "white",
+						"count" : 5
+					},
+					
+					{
+						"color" : "black",
+						"count" : 3
+					}
+				],
+				"level" : 3,
+				"score" : 3
+			},
+			
+			{
+				"color" : "green",
+				"costs" : 
+				[
+					
+					{
+						"color" : "green",
+						"count" : 3
+					},
+					
+					{
+						"color" : "blue",
 						"count" : 5
 					}
 				],
@@ -681,598 +1226,27 @@
 			},
 			
 			{
-				"color" : "white",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 2
-					},
-					
-					{
-						"color" : "black",
-						"count" : 1
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "black",
-				"costs" : 
-				[
-					
-					{
-						"color" : "green",
-						"count" : 2
-					},
-					
-					{
-						"color" : "white",
-						"count" : 2
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "green",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 1
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 1
-					},
-					
-					{
-						"color" : "white",
-						"count" : 1
-					},
-					
-					{
-						"color" : "black",
-						"count" : 1
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "red",
-				"costs" : 
-				[
-					
-					{
-						"color" : "white",
-						"count" : 4
-					}
-				],
-				"level" : 1,
-				"score" : 1
-			},
-			
-			{
-				"color" : "white",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 1
-					},
-					
-					{
-						"color" : "green",
-						"count" : 1
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 1
-					},
-					
-					{
-						"color" : "black",
-						"count" : 1
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "green",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 1
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 1
-					},
-					
-					{
-						"color" : "white",
-						"count" : 1
-					},
-					
-					{
-						"color" : "black",
-						"count" : 2
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "green",
-				"costs" : 
-				[
-					
-					{
-						"color" : "green",
-						"count" : 1
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 3
-					},
-					
-					{
-						"color" : "white",
-						"count" : 1
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "white",
-				"costs" : 
-				[
-					
-					{
-						"color" : "blue",
-						"count" : 2
-					},
-					
-					{
-						"color" : "black",
-						"count" : 2
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "blue",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 2
-					},
-					
-					{
-						"color" : "green",
-						"count" : 1
-					},
-					
-					{
-						"color" : "white",
-						"count" : 1
-					},
-					
-					{
-						"color" : "black",
-						"count" : 1
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "white",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 1
-					},
-					
-					{
-						"color" : "green",
-						"count" : 2
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 1
-					},
-					
-					{
-						"color" : "black",
-						"count" : 1
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "green",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 2
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 2
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "green",
-				"costs" : 
-				[
-					
-					{
-						"color" : "black",
-						"count" : 4
-					}
-				],
-				"level" : 1,
-				"score" : 1
-			},
-			
-			{
-				"color" : "black",
-				"costs" : 
-				[
-					
-					{
-						"color" : "green",
-						"count" : 3
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "white",
-				"costs" : 
-				[
-					
-					{
-						"color" : "blue",
-						"count" : 1
-					},
-					
-					{
-						"color" : "white",
-						"count" : 3
-					},
-					
-					{
-						"color" : "black",
-						"count" : 1
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "red",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 2
-					},
-					
-					{
-						"color" : "white",
-						"count" : 2
-					}
-				],
-				"level" : 1
-			},
-			
-			{
 				"color" : "red",
 				"costs" : 
 				[
 					
 					{
 						"color" : "green",
-						"count" : 1
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 2
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "blue",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 1
-					},
-					
-					{
-						"color" : "green",
-						"count" : 1
-					},
-					
-					{
-						"color" : "white",
-						"count" : 1
-					},
-					
-					{
-						"color" : "black",
-						"count" : 1
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "red",
-				"costs" : 
-				[
-					
-					{
-						"color" : "green",
-						"count" : 1
-					},
-					
-					{
-						"color" : "white",
 						"count" : 2
 					},
-					
-					{
-						"color" : "black",
-						"count" : 2
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "red",
-				"costs" : 
-				[
-					
-					{
-						"color" : "green",
-						"count" : 1
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 1
-					},
-					
-					{
-						"color" : "white",
-						"count" : 1
-					},
-					
-					{
-						"color" : "black",
-						"count" : 1
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "black",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 1
-					},
-					
-					{
-						"color" : "green",
-						"count" : 2
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "green",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 2
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 1
-					},
-					
-					{
-						"color" : "black",
-						"count" : 2
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "white",
-				"costs" : 
-				[
-					
-					{
-						"color" : "blue",
-						"count" : 3
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "green",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 3
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "green",
-				"costs" : 
-				[
-					
-					{
-						"color" : "blue",
-						"count" : 1
-					},
-					
-					{
-						"color" : "white",
-						"count" : 2
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "black",
-				"costs" : 
-				[
 					
 					{
 						"color" : "blue",
 						"count" : 4
-					}
-				],
-				"level" : 1,
-				"score" : 1
-			},
-			
-			{
-				"color" : "black",
-				"costs" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 3
-					},
-					
-					{
-						"color" : "green",
-						"count" : 1
-					},
-					
-					{
-						"color" : "black",
-						"count" : 1
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "blue",
-				"costs" : 
-				[
-					
-					{
-						"color" : "green",
-						"count" : 2
-					},
-					
-					{
-						"color" : "black",
-						"count" : 2
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "blue",
-				"costs" : 
-				[
-					
-					{
-						"color" : "black",
-						"count" : 3
-					}
-				],
-				"level" : 1
-			},
-			
-			{
-				"color" : "red",
-				"costs" : 
-				[
-					
-					{
-						"color" : "green",
-						"count" : 1
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 1
 					},
 					
 					{
 						"color" : "white",
-						"count" : 2
-					},
-					
-					{
-						"color" : "black",
 						"count" : 1
 					}
 				],
-				"level" : 1
+				"level" : 2,
+				"score" : 2
 			}
 		],
 		"gems" : 
@@ -1280,26 +1254,21 @@
 			
 			{
 				"color" : "red",
-				"count" : 5
-			},
-			
-			{
-				"color" : "green",
-				"count" : 5
-			},
-			
-			{
-				"color" : "blue",
-				"count" : 5
+				"count" : 3
 			},
 			
 			{
 				"color" : "white",
-				"count" : 5
+				"count" : 2
 			},
 			
 			{
 				"color" : "black",
+				"count" : 2
+			},
+			
+			{
+				"color" : "gold",
 				"count" : 5
 			}
 		],
@@ -1311,84 +1280,6 @@
 				[
 					
 					{
-						"color" : "green",
-						"count" : 4
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 4
-					}
-				],
-				"score" : 3
-			},
-			
-			{
-				"requirements" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 3
-					},
-					
-					{
-						"color" : "green",
-						"count" : 3
-					},
-					
-					{
-						"color" : "black",
-						"count" : 3
-					}
-				],
-				"score" : 3
-			},
-			
-			{
-				"requirements" : 
-				[
-					
-					{
-						"color" : "blue",
-						"count" : 3
-					},
-					
-					{
-						"color" : "white",
-						"count" : 3
-					},
-					
-					{
-						"color" : "black",
-						"count" : 3
-					}
-				],
-				"score" : 3
-			},
-			
-			{
-				"requirements" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 4
-					},
-					
-					{
-						"color" : "black",
-						"count" : 4
-					}
-				],
-				"score" : 3
-			},
-			
-			{
-				"requirements" : 
-				[
-					
-					{
 						"color" : "blue",
 						"count" : 4
 					},
@@ -1406,40 +1297,13 @@
 				[
 					
 					{
-						"color" : "red",
-						"count" : 3
-					},
-					
-					{
 						"color" : "green",
-						"count" : 3
+						"count" : 4
 					},
 					
 					{
 						"color" : "blue",
-						"count" : 3
-					}
-				],
-				"score" : 3
-			},
-			
-			{
-				"requirements" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 3
-					},
-					
-					{
-						"color" : "white",
-						"count" : 3
-					},
-					
-					{
-						"color" : "black",
-						"count" : 3
+						"count" : 4
 					}
 				],
 				"score" : 3
@@ -1456,45 +1320,6 @@
 					
 					{
 						"color" : "black",
-						"count" : 4
-					}
-				],
-				"score" : 3
-			},
-			
-			{
-				"requirements" : 
-				[
-					
-					{
-						"color" : "green",
-						"count" : 3
-					},
-					
-					{
-						"color" : "blue",
-						"count" : 3
-					},
-					
-					{
-						"color" : "white",
-						"count" : 3
-					}
-				],
-				"score" : 3
-			},
-			
-			{
-				"requirements" : 
-				[
-					
-					{
-						"color" : "red",
-						"count" : 4
-					},
-					
-					{
-						"color" : "green",
 						"count" : 4
 					}
 				],

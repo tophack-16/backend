@@ -1,0 +1,39 @@
+
+{
+	"noble" : 
+	{
+		"requirements" : 
+		[
+			
+			{
+				"color" : "blue",
+				"count" : 4
+			},
+			
+			{
+				"color" : "white",
+				"count" : 4
+			}
+		],
+		"score" : 3
+	},
+	"purchase_card" : 
+	{
+		"color" : "blue",
+		"costs" : 
+		[
+			
+			{
+				"color" : "white",
+				"count" : 1
+			},
+			
+			{
+				"color" : "black",
+				"count" : 2
+			}
+		],
+		"level" : 1,
+		"score" : 0
+	}
+}
