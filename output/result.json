@@ -1,0 +1,71 @@
+
+{
+	"numPlayers" : 3,
+	"playerFinalStats" : 
+	[
+		
+		{
+			"color" : "white",
+			"costs" : 
+			[
+				
+				{
+					"color" : "red",
+					"count" : 5
+				}
+			],
+			"level" : 2,
+			"score" : 2
+		},
+		
+		{
+			"color" : "white",
+			"costs" : 
+			[
+				
+				{
+					"color" : "red",
+					"count" : 5
+				}
+			],
+			"level" : 2,
+			"score" : 2
+		},
+		
+		{
+			"color" : "white",
+			"costs" : 
+			[
+				
+				{
+					"color" : "red",
+					"count" : 5
+				}
+			],
+			"level" : 2,
+			"score" : 2
+		}
+	],
+	"players" : 
+	[
+		
+		{
+			"cards" : 21,
+			"name" : "player_example_3",
+			"score" : 16
+		},
+		
+		{
+			"cards" : 20,
+			"name" : "player_example_1",
+			"score" : 15
+		},
+		
+		{
+			"cards" : 17,
+			"name" : "player_example_2",
+			"score" : 11
+		}
+	],
+	"round" : 53
+}
